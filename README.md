@@ -4,7 +4,8 @@ This notebook demonstrates how to run inference using SpiderGPT model hosted on 
 
 No identifying information is included.
 
-## HuggingFace model: anon-genAI/SpiderGPT
+## HuggingFace model
+Model name: anon-genAI/SpiderGPT
 
 ## Usage: 
 The exceptional mechanical performance of spider silk—characterized by its high tensile strength and extensibility—is largely attributed to the repetitive domains within major ampullate spidroin (MaSp) proteins. Despite this, uncovering clear relationships between these mechanical properties and the underlying repeat sequences remains a significant challenge, owing to the complex interplay among sequence, structure, and function, as well as the scarcity of comprehensive annotated datasets.
