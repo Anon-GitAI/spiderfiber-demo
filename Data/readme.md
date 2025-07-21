@@ -16,7 +16,7 @@ The composition of this test set is detailed in the `SD2` file.
 
 ### `SD3`: BLAST-Based Similarity Comparison  
 This dataset presents a comparison between **seven generated sequences** and their top two natural matches, referred to as `BLAST1` and `BLAST2`, based on BLAST results.  
-Matches were selected based on:
+Matches were selected based on the following metrices:
 
 - **Query coverage**
 - **Percent identity**
